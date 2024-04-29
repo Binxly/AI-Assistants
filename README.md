@@ -53,11 +53,11 @@ Make sure to set these environment variables or replace the `os.getenv()` calls 
 
 ### Notebooks
 
-#### reports
+### reports
 
 This folder will be created upon generated reports from the research tools provided.
 
-#### Scripts
+### Scripts
 
 This folder contains various Python scripts for various research and sub-agent tasks.
 
