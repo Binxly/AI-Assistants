@@ -1,7 +1,5 @@
 # Multi-Agent AI Assistants
 
-This repository contains a variety of AI-assisted research tools and sub-agent pipelines designed to aid in various tasks.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
