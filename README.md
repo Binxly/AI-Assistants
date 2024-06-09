@@ -68,7 +68,7 @@ This folder contains various Python scripts for various research and sub-agent t
 
 ## Contributing
 
-Contributions to this repository are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+Contributions to this repository are welcome. Add to the pile.
 
 ## License
 
