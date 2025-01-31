@@ -63,8 +63,6 @@ This folder contains various Python scripts for various research and sub-agent t
 
   - [This project](https://github.com/Doriandarko/maestro) demonstrates an AI-assisted task breakdown and execution workflow using the Anthropic API. It utilizes two AI models, Opus and Haiku, to break down an objective into sub-tasks, execute each sub-task, and refine the results into a cohesive final output.
 
-- Ollama Researcher
-  - [This project](https://www.binx.page/blog/research-assistant) was published to my blog. For a full breakdown, please view the provided [link](https://www.binx.page/blog/research-assistant).
 
 ## Contributing
 
